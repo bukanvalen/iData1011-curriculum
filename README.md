@@ -10,5 +10,17 @@ Adaptasi dari:
 ### Jalur 2: Statistika
 #### 1. 
 
-### Jalur 8 : Data Munging
-#### 12. Dimensionality & Numeriosity Reduction
+### Jalur 8 : Data Ingestion
+#### 1. Using ETL
+#### 2. How much Data?
+#### 3. Google OpenRefine
+#### 4. Data Survey
+#### 5. Transformation & Enrichment
+#### 6. Data Fusion
+#### 7. Data Integration
+#### 8. Data Sources & Acquisition
+#### 9. Data Discovery
+#### 10. Summary of Data Formats
+
+### Jalur 9 : Data Munging
+#### 1. Dimensionality & Numeriosity Reduction
