@@ -10,6 +10,7 @@ Adaptasi dari:
 
 
 ### Jalur 2: Statistika
-#### 1.
-### SDS 3
 #### 1. 
+
+### Jalur 8 : Data Munging
+#### 12. Dimensionality & Numeriosity Reduction
